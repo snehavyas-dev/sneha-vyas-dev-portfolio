@@ -49,18 +49,23 @@ I'm currently strengthening my JavaScript skills and working toward becoming a *
 ## 📂 Website Sections
 
 ### 🏠 Home
+
 Introduction and overview of my profile as a frontend developer.
 
 ### 👩‍💻 About
+
 A short introduction about me, my education, and my development journey.
 
 ### 🛠️ Skills
+
 Technologies and web development skills I'm currently working with.
 
 ### 🚀 Projects
+
 A collection of selected projects I've built while learning and practicing web development.
 
 ### 📬 Contact
+
 Ways to connect with me for internships, collaborations, or projects.
 
 ---
@@ -70,12 +75,15 @@ Ways to connect with me for internships, collaborations, or projects.
 Some of the projects showcased in my portfolio include:
 
 ### 🍔 SnapBite
+
 Responsive restaurant website with interactive features.
 
 ### ✍️ SignFlexi
+
 Responsive business website for a digital signing solution.
 
 ### 🌦️ Weather App
+
 Weather application built using HTML, CSS and JavaScript.
 
 More projects will be added as I continue learning and building.
@@ -84,7 +92,7 @@ More projects will be added as I continue learning and building.
 
 ## 📸 Preview
 
-> Portfolio screenshots can be added here in the future.
+Portfolio screenshots can be added here in the future.
 
 ---
 
@@ -92,9 +100,17 @@ More projects will be added as I continue learning and building.
 
 To run this portfolio on your computer:
 
-```bash
-# Clone the repository
-git clone https://github.com/snehavyas-dev/sneha-vyas-dev-portfolio.git
+1. Clone the repository:
+
+   git clone https://github.com/snehavyas-dev/sneha-vyas-dev-portfolio.git
+
+2. Open the project folder:
+
+   cd sneha-vyas-dev-portfolio
+
+3. Open `index.html` in your browser.
+
+---
 
 ## 🌱 Learning Journey
 
@@ -121,7 +137,8 @@ I'm following a **learn → build → improve → repeat** approach and continuo
 
 ## 🤝 Connect With Me
 
-📧 **Email:** snehavyas250@gmail.com
+📧 **Email:**  
+snehavyas250@gmail.com
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/
@@ -137,6 +154,3 @@ https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/
 ⭐ If you find this project interesting, feel free to explore the repository and my other projects!
 
 **Built with ❤️ by Sneha Vyas**
-
-# Open the project folder
-cd sneha-vyas-dev-portfolio
