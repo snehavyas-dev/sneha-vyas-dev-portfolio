@@ -96,5 +96,47 @@ To run this portfolio on your computer:
 # Clone the repository
 git clone https://github.com/snehavyas-dev/sneha-vyas-dev-portfolio.git
 
+## 🌱 Learning Journey
+
+This portfolio is part of my ongoing journey in web development.
+
+My current learning path:
+
+**HTML & CSS → JavaScript → React → Node.js → Full Stack Development**
+
+I'm following a **learn → build → improve → repeat** approach and continuously adding new projects as I progress.
+
+---
+
+## 🔮 Future Improvements
+
+- [ ] Add more projects
+- [ ] Improve accessibility
+- [ ] Add more advanced JavaScript interactions
+- [ ] Add React-based projects
+- [ ] Add backend/full-stack projects
+- [ ] Continue improving UI/UX
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** snehavyas250@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/sneha-vyas-94a0bb3a3/
+
+🐙 **GitHub:**  
+https://github.com/snehavyas-dev
+
+🌐 **Portfolio:**  
+https://snehavyas-dev.github.io/sneha-vyas-dev-portfolio/
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository and my other projects!
+
+**Built with ❤️ by Sneha Vyas**
+
 # Open the project folder
 cd sneha-vyas-dev-portfolio
